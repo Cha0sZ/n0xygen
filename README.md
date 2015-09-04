@@ -1,5 +1,6 @@
 # n0xygen
 A malware capable of work without internet access. Python Version
+Last Version: 0.2 beta
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
